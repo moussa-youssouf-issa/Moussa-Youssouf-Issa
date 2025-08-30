@@ -106,28 +106,6 @@ Ingénieur Réseaux & Sécurité, j’interviens sur la **conception**, le **dé
 - **Télécharger le CV (PDF)** : à placer dans `./cv/` puis ajouter le lien ici.  
 - **Email** : imammoussayoussouf62@gmail.com · **Tél** : +235 98 33 92 10 fileciteturn0file2  
 - **LinkedIn** : https://linkedin.com/in/moussa-youssouf-issa fileciteturn0file2
-
----
-
-## 🗺️ Comment utiliser ce repo
-- `README.md` — votre profil public (GitHub/LinkedIn).  
-- `cv/` — CV PDF + éventuellement versions `LaTeX/Docx`.  
-- `projects/` — dossiers des projets (captures, schémas, scripts).  
-- `scripts/` — scripts d’automatisation (Python, Bash).
-
-**Idées d’assets** :  
-- Schémas **Visio/d2/mermaid** des architectures (Réseaux, SIEM, PAM).  
-- Captures d’écran **Kibana**, **FMC**, **Cisco ISE**, **Wallix** (avec masquage des données).  
-- **Playbooks** SOC/NOC (Markdown).
-
----
-
-## ✅ Conseils pour optimiser votre visibilité
-- Épingler ce repo sur votre profil GitHub.  
-- Ajouter des **captures** (dashboards, topologies) dans `projects/`.  
-- Publier 1–2 **articles techniques** (Medium/LinkedIn) et les lier ici.  
-- Faire une **section “Changelog”** de vos progrès (certifs, labs, nouvelles compétences).
-
 ---
 
 > *Merci de votre lecture !* N’hésitez pas à ouvrir une issue pour toute collaboration ou me contacter directement par email/téléphone.
