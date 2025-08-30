@@ -2,7 +2,7 @@
 
 ## 💼 À propos de moi
 🎓 Master en cybersécurité et systèmes d’information  
-🔐 Certifié CCNA, CCNP, PMP en cours  
+🔐 Certifié CCNA1-3, CCNP ENCORE en cours, PMP en cours  
 💻 Passionné par la sécurité des réseaux, les SOC et la gestion des SI sécurisés  
 
 ## 🚀 Compétences principales
@@ -17,6 +17,6 @@
 - 📊 Automatisation de scripts pour supervision réseau  
 
 ## 🤝 Me contacter
-📧 Email : ton-email@example.com  
-🌐 LinkedIn : [Ton profil LinkedIn](https://linkedin.com/in/ton-profil)  
-📂 GitHub : [Mes projets](https://github.com/ton-username)  
+📧 Email : imammoussayoussou62@gmail.com 
+🌐 LinkedIn : www.linkedin.com/in/moussa-y-935193198
+📂 GitHub : ...
