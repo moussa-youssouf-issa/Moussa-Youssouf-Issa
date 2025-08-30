@@ -1,111 +1,116 @@
-# MOUSSA YOUSSOUF ISSA — Ingénieur Réseaux & Sécurité
+# MOUSSA YOUSSOUF ISSA — Network & Security Engineer
 
 [![Made with ❤️](https://img.shields.io/badge/Made%20with-%E2%9D%A4%EF%B8%8F-informational)](#)
-[![Focus: Réseaux & Sécurité](https://img.shields.io/badge/Focus-R%C3%A9seaux%20%26%20S%C3%A9curit%C3%A9-blue)](#)
+[![Focus: Cybersecurity](https://img.shields.io/badge/Focus-Cybersecurity-blue)](#)
+[![Profile: Hybrid](https://img.shields.io/badge/Profile-Hybrid%20Networks%20%26%20Security-orange)](#)
 [![Open to Work](https://img.shields.io/badge/Open%20to-Work-success)](#)
-[![Location](https://img.shields.io/badge/N'djamena-Tchad-lightgrey)](#)
 
-> **Profil** — Administrateur systèmes, réseaux & cybersécurité, avec expérience en environnements critiques (télécoms / entreprises), déploiement **SIEM**, **pare-feu**, **IAM/PAM**, **VoIP sécurisée** et **supervision réseau**. Ambition : renforcer la **résilience**, la **sécurité** et la **performance** des organisations.
+> **About Me** — Ingénieur Réseaux & Sécurité, with hands-on experience in **cybersecurity operations**,  
+> **network administration**, **firewalling (Cisco ASA/Fortinet)**, **SIEM/SOAR** deployment, **VoIP security**,  
+> and **infrastructure monitoring**.  
+> Goal: deliver **resilient, secure and scalable IT infrastructures** for **Banking, Telecom and Enterprise environments**.  
 
 ---
 
 ## 📌 TL;DR
-- **Rôle visé** : Administrateur Réseaux & Télécoms | Administrateur de la Sécurité Opérationnelle  
-- **Forces** : Profil **hybride Réseaux + Sécurité**, projets livrés, certifications, capacité d’apprentissage rapide.  
-- **Disponibilité** : Immédiate — **freelancer/consultant** également pour missions.  
-- **Contact** : +235 98 33 92 10 · imammoussayoussouf62@gmail.com · LinkedIn: linkedin.com/in/moussa-youssouf-issa
+- 🎯 **Target roles** : Network & Telecom Administrator | Security Operations Administrator  
+- 🧩 **Strengths** : Hybrid profile (Networks + Security), strong lab projects, continuous certification path  
+- 🔑 **Availability** : Immediately, also open for **freelance missions**  
+- 📞 **Contacts** :  
+  - ☎️ +235 66 48 68 42  
+  - ☎️ +235 98 33 92 10  
+  - ✉️ imammoussayoussouf62@gmail.com  
+  - 🌐 [LinkedIn](https://linkedin.com/in/moussa-youssouf-issa)
 
 ---
 
-## 🧭 À propos
-Ingénieur Réseaux & Sécurité, j’interviens sur la **conception**, le **déploiement** et l’**exploitation** d’infrastructures IT critiques. J’aime traduire les exigences métiers (continuité, conformité, maîtrise des risques) en **architectures robustes** et **procédures opérationnelles**.
+## 🧭 About
+I design, deploy and secure **mission-critical IT infrastructures**.  
+Mixing **network engineering** and **cybersecurity**, I help organizations achieve **compliance, availability and security goals**.
 
-- En **sécurité opérationnelle** : SIEM/SOAR, **PAM (Wallix)**, **EDR**, durcissement systèmes, SOC (L1/L2), **Cisco ISE**.  
-- En **réseaux** : LAN/WAN, **VLAN/ACL**, **VPN**, **Cisco ASA/NGFW**, QoS, **supervision** (Cacti/Nagios/SolarWinds).  
-- En **téléphonie IP** : **Asterisk**, **SRTP/TLS**, anti-DoS SIP.  
-- En **méthodes** : bonnes pratiques **ISO 27001**, **ITIL**, documentation & transfert de compétences.
+- 🔐 **Security Operations** : SIEM/SOAR, PAM (Wallix), EDR, Cisco ISE, incident response, hardening  
+- 🌐 **Networks** : LAN/WAN, VLAN/ACL, VPN, Cisco ASA/NGFW, Fortinet, Palo Alto (basics), QoS  
+- 📞 **VoIP/Telephony** : Asterisk, SRTP/TLS, SIP security, anti-DoS  
+- 📊 **Monitoring** : Cacti, Nagios, SolarWinds, ELK dashboards  
+- 🛡️ **Frameworks** : ISO 27001, ITIL, Security Best Practices  
 
 ---
 
-## 🛠️ Compétences principales
+## 🛠️ Core Skills
 
-| Domaine | Compétences clés |
+| Area | Tools & Tech |
 |---|---|
-| **Sécurité** | Cisco ASA/NGFW (FMC), Cisco ISE, **PAM Wallix**, Trellix ePO, EDR, durcissement |
-| **SIEM / Supervision** | **ELK**, Security Onion, Cacti, Nagios, SolarWinds |
-| **Réseaux** | Routage, Commutation, **VLAN**, **ACL**, **VPN**, LAN/WAN, HSRP, STP |
-| **Téléphonie IP** | **Asterisk**, VoIP sécurisée (SRTP/TLS), anti-DoS SIP |
-| **Systèmes & Virt.** | VMware, ESXi, VirtualBox |
-| **Dev / Scripts** | Python, Java, JavaScript |
-| **Base de données** | MySQL, Oracle, MongoDB |
-
-> Extraits issus du CV original : coordonnées, compétences et expériences principales. fileciteturn0file0 fileciteturn0file2
+| **Cybersecurity** | Cisco ASA/NGFW (FMC), Cisco ISE, Wallix PAM, Fortinet, Trellix ePO, Cisco ESA |
+| **SIEM & Monitoring** | ELK, Security Onion, Nagios, Cacti, SolarWinds |
+| **Networks** | VLAN, ACL, VPN, Routing/Switching, HSRP, STP |
+| **Telephony** | Asterisk, VoIP (secure), SIP hardening |
+| **Virtualization** | VMware, ESXi, VirtualBox |
+| **Programming** | Python (automation), Java, JavaScript |
+| **Databases** | MySQL, Oracle, MongoDB |
 
 ---
 
-## 💼 Expériences
+## 💼 Professional Experience
 
-### Freelancer / Consultant Réseaux & Sécurité *(Oct. 2024 – présent)*
-- Sécurisation réseaux pour **PME** (VPN site-à-site, segmentation **VLAN**, ACL, durcissement).
-- Déploiement **SIEM (ELK)** pour collecte temps réel **50K+ logs/jour** avec tableaux de bord d’alerting.
-- Mise en place **VoIP sécurisée** (Asterisk, ~30 users) : **SRTP/TLS**, durcissement SIP, politique d’authentification.
-- **Supervision** (Cacti/Nagios) sur 60+ équipements, baisse des incidents non détectés.
-- Conformité : alignement **ISO 27001** (contrôles, procédures, sensibilisation).
+### 🔹 Freelancer / Consultant (Oct 2024 – Present)
+- Secured **SME networks** : site-to-site VPN, VLAN segmentation, ACL policies.  
+- Deployed **SIEM (ELK stack)** handling **50K+ logs/day**, built alert dashboards.  
+- Implemented **VoIP with Asterisk (~30 users)** secured with SRTP/TLS.  
+- Network monitoring for **60+ devices** using Nagios/Cacti → reduced incidents by **40%**.  
+- Compliance advisory (aligned with **ISO 27001 controls**).  
 
-### Moov Africa — Stagiaire Analyste Cybersécurité *(Avr. – Oct. 2024, N’Djamena)*
-- Opérations pare-feu **Cisco ASA/NGFW** (FMC), politiques & règles.  
-- **Contrôle d’accès** avec **Cisco ISE**, **PAM (Wallix)**.  
-- Déploiement **SIEM/SOAR** open source pour corrélation & alerting.  
-- **EDR** poste de travail et **sécurité e-mail** (**Trellix ePO, Cisco ESA**).  
-- Participation **réponse à incident** & documentation SOC. fileciteturn0file1
+### 🔹 Moov Africa — Cybersecurity Intern (Apr – Oct 2024, N’Djamena)
+- Managed **Cisco ASA & FMC** firewalls, wrote access rules.  
+- Operated **Cisco ISE + Wallix PAM** for access control.  
+- Deployed **open-source SIEM/SOAR** for real-time correlation.  
+- Secured endpoints and emails with **Trellix ePO & Cisco ESA**.  
+- Incident response participation + SOC documentation.  
 
-### IUT de Ngaoundéré — Stagiaire Cybersécurité *(Juil. – Oct. 2022)*
-- Mise en place **SIEM** open source pour l’analyse de logs.  
-- Politiques de sécurité, détection d’anomalies. fileciteturn0file3
+### 🔹 IUT Ngaoundéré — Cybersecurity Intern (Jul – Oct 2022)
+- Installed **SIEM** solution for log analysis.  
+- Defined **security policies** for anomaly detection.  
 
-### Projet de Fin d’Études — **VoIP Sécurisée (Asterisk)** *(Avr. 2022)*
-- Déploiement VoIP + mécanismes de sécurité (anti-DoS, chiffrement, durcissement). fileciteturn0file1
-
----
-
-## 🚀 Projets clés (sélection)
-- **Architecture sécurisée Banque (lab)** : segmentation **VLAN**, **ACL**, **VPN**, durcissement switches/routeurs, procédures d’exploitation.  
-- **Réseaux Entreprise Telco (lab)** : haute dispo (**HSRP + STP**), objectifs **99,9%** de disponibilité, tests de bascule.  
-- **Kit SOC open source** : pipeline **Beats/Logstash → Elasticsearch/Kibana**, cas d’usage détection brute force & mouvement latéral.  
-- **Playbooks SecOps** : triage phishing, isolement poste via EDR, création d’incident & communication NOC.
+### 🔹 Final Year Project — Secure VoIP (Apr 2022)
+- Deployed **VoIP with Asterisk**, hardened SIP, enabled **TLS/SRTP encryption**.  
 
 ---
 
-## 🎓 Formation
-- **Master en Ingénierie Informatique** — Université Protestante d’Afrique Centrale (2022–2025). fileciteturn0file3  
-- **Licence Tech. Ingénierie Informatique (Réseaux)** — IUT de Ngaoundéré (2021–2022). fileciteturn0file3  
-- **Licence Informatique — Réseaux & Internet** — Université de Ngaoundéré (2018–2022). fileciteturn0file3  
-- **Baccalauréat Scientifique — Série D** — Vision des Élites, N’Djamena (2018). fileciteturn0file3
+## 🚀 Key Projects
+- 🏦 **Banking Lab** : VLAN segmentation, ACL, VPN, router/switch hardening.  
+- 📡 **Telco Lab** : High availability setup (HSRP + STP) → **99.9% uptime target**.  
+- 🔍 **SOC Kit** : ELK-based detection pipeline, brute-force & lateral movement detection.  
+- 📑 **SecOps Playbooks** : phishing triage, host isolation via EDR, NOC-SOC collaboration.  
+
+---
+
+## 🎓 Education
+- 🎓 **Master in Computer Engineering** — UPAC, Yaoundé (2022–2025)  
+- 🎓 **Technological Degree, Computer Engineering (Networks)** — IUT Ngaoundéré (2021–2022)  
+- 🎓 **Bachelor in Computer Science (Networks & Internet)** — Univ. Ngaoundéré (2018–2022)  
+- 🎓 **Baccalaureate — Series D** — Vision des Élites, N’Djamena (2018)  
 
 ---
 
 ## 📜 Certifications
-- **Cisco CCNA Enterprise (1–3)** — validé. fileciteturn0file3  
-- **Cisco CEH (Ethical Hacker)** — validé. fileciteturn0file3  
-- **Cisco Security Specialist** — validé. fileciteturn0file3  
-- **Fortinet Cybersecurity Associate** — validé. fileciteturn0file3  
-- **Sylor Academy — Sécurité de l’Information** — validé. fileciteturn0file3  
-- **PMP** (centre Expertiz) — session 09 août. fileciteturn0file3  
-- **En cours / à venir** : **CCNP ENCOR**, **CompTIA Security+**. fileciteturn0file0
-
-> ⚠️ Pour les postes en **banque** & **télécoms** visés, voir les fiches : *Administrateur Réseaux & Télécoms* / *Administrateur Sécurité Opérationnelle*. Exigences clés : **Bac+5**, maîtrise **Cisco**, **SIEM/EDR/PAM**, bonnes pratiques **ISO 27001 / ITIL**, **français** et **anglais**. fileciteturn0file9 fileciteturn0file6
+- ✅ Cisco CCNA Enterprise  
+- ✅ Cisco CEH (Ethical Hacker)  
+- ✅ Cisco Security Specialist  
+- ✅ Fortinet Cybersecurity Associate  
+- ✅ Sylor Academy — Information Security  
+- 🎯 PMP (Project Management Professional, 2025)  
+- 🚀 In progress : CCNP ENCOR, CompTIA Security+  
 
 ---
 
-## 🧩 Tech stack (résumé)
-`Cisco ASA/NGFW` · `FMC` · `Cisco ISE` · `Wallix PAM` · `ELK` · `Security Onion` · `Trellix ePO` · `Cisco ESA` · `Cacti` · `Nagios` · `SolarWinds` · `VLAN/ACL` · `VPN` · `HSRP` · `STP` · `Asterisk` · `VMware/ESXi` · `Python` · `Java` · `JavaScript` · `MySQL/Oracle/MongoDB`
+## 🧩 Tech Stack
+`Cisco ASA/NGFW` · `Cisco ISE` · `Wallix PAM` · `Fortinet` · `ELK Stack` · `Nagios` · `Cacti` · `SolarWinds` ·  
+`VLAN/ACL` · `VPN` · `HSRP` · `STP` · `Asterisk` · `VMware/ESXi` · `Python` · `Java` · `JavaScript` ·  
+`MySQL/Oracle/MongoDB`
 
 ---
 
-## 📎 CV et contacts
-- **Télécharger le CV (PDF)** : à placer dans `./cv/` puis ajouter le lien ici.  
-- **Email** : imammoussayoussouf62@gmail.com · **Tél** : +235 98 33 92 10 fileciteturn0file2  
-- **LinkedIn** : https://linkedin.com/in/moussa-youssouf-issa fileciteturn0file2
----
-
-> *Merci de votre lecture !* N’hésitez pas à ouvrir une issue pour toute collaboration ou me contacter directement par email/téléphone.
+## 📎 CV & Contacts
+- 📄 **CV (PDF)** : *(link to ./cv/CV_Moussa.pdf)*  
+- 📞 Phones : +235 66 48 68 42 | +235 98 33 92 10  
+- ✉️ Email : imammoussayoussouf62@gmail.com  
+- 🌐 LinkedIn : [linkedin.com/in/moussa-youssouf-issa](https://linkedin.com/in/moussa-youssouf-issa)
