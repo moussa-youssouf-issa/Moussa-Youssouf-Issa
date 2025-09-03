@@ -20,7 +20,9 @@
   - ☎️ +235 66 48 68 42  
   - ☎️ +235 98 33 92 10  
   - ✉️ imammoussayoussouf62@gmail.com  
-  - 🌐 [LinkedIn](https://linkedin.com/in/moussa-youssouf-issa)
+  - 🌐 [LinkedIn](www.linkedin.com/in/moussa-y-935193198)
+
+
 
 ---
 
